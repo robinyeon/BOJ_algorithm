@@ -8,5 +8,3 @@ console.log(a * b.toString()[2]);
 console.log(a * b.toString()[1]);
 console.log(a * b.toString()[0]);
 console.log(a * b);
-
-
