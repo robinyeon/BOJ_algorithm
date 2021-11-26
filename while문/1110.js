@@ -1,3 +1,5 @@
+// 더하기 사이클
+
 const input = require("fs").readFileSync("/dev/stdin").toString().trim();
 let num = Number(input);
 let sum = Number();
